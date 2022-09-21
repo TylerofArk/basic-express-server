@@ -15,7 +15,7 @@ Clone repo, install dependencies and run npm test to run the test suite.
 
 #### UML
 
-![ULM](../imgs/lab2ULM.png)
+![ULM](./imgs/lab2ULM.png)
 
 ##### Collaborators
 
