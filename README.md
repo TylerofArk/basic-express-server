@@ -6,17 +6,33 @@
 
 ## Links and Resources
 
-[Production Server](https://tlm-server-deploy-prod.herokuapp.com/)
-[Development Server](https://tlm-server-deploy-dev.herokuapp.com/)
+[Production Server](https://tlm-basic-express-server.herokuapp.com/)
 
-### Tests
+## Problem Domain
+A basic express server inteded to practice server modularization, use of middleware, writing tests and overall best practices.
 
-Clone repo, install dependencies and run npm test to run the test suite.
+### Dependencies
 
-#### UML
+- node
+- dotenv
+- express
+- jest
+- supertest
+
+#### Setup
+
+- npm init
+- env
+- npm i dotenv, supertest, jest, express
+
+#### Tests
+
+[Test Report](https://github.com/TylerofArk/basic-express-server/actions/runs/3095211306/jobs/5009386993)
+
+##### UML
 
 ![ULM](./imgs/lab2ULM.png)
 
-##### Collaborators
+###### Collaborators
 
 Luis Rosales
